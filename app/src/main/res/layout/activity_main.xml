@@ -11,7 +11,8 @@
         android:layout_height="45dp">
         <TextView
             android:text="Android日历"
-            android:gravity="center"
+            android:gravity="center" 
+                  
             android:textColor="@color/white"
             android:textSize="18sp"
             android:background="@color/blue"
