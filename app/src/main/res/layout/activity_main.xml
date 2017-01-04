@@ -10,7 +10,7 @@
         android:layout_width="match_parent"
         android:layout_height="45dp">
         <TextView
-            android:text="Android日历"
+            android:text="Android日历yw"
             android:gravity="center" 
                   
             android:textColor="@color/white"
