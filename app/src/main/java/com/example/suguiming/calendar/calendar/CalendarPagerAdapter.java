@@ -7,7 +7,7 @@ import android.view.ViewGroup;
 import java.util.List;
 
 /**
- * Created by suguiming on 15/10/27.
+ * Created by yw
  */
 public class CalendarPagerAdapter extends PagerAdapter {
     List<CalendarView> pages;
